@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873177678924",
+    "project_id": "aurorabenchmark-51537",
+    "storage_bucket": "aurorabenchmark-51537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873177678924:android:dbc1ef2107da0d0cc760e9",
+        "android_client_info": {
+          "package_name": "com.example.aurora_benchmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873177678924-dj1tkahkfcruhcvqvu45rur8hg646eou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomHexZP9v7c_K_qgfpMpUpok3jQYVkQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873177678924-dj1tkahkfcruhcvqvu45rur8hg646eou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
